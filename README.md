@@ -1,1 +1,1 @@
-# TrabGQL
+# TrabGQS
