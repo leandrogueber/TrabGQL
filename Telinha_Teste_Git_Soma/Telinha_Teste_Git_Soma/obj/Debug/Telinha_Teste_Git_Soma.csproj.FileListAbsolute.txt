@@ -1,0 +1,8 @@
+c:\users\gueber\documents\visual studio 2013\Projects\Telinha_Teste_Git_Soma\Telinha_Teste_Git_Soma\bin\Debug\Telinha_Teste_Git_Soma.exe
+c:\users\gueber\documents\visual studio 2013\Projects\Telinha_Teste_Git_Soma\Telinha_Teste_Git_Soma\bin\Debug\Telinha_Teste_Git_Soma.pdb
+c:\users\gueber\documents\visual studio 2013\Projects\Telinha_Teste_Git_Soma\Telinha_Teste_Git_Soma\obj\Debug\Telinha_Teste_Git_Soma.csprojResolveAssemblyReference.cache
+c:\users\gueber\documents\visual studio 2013\Projects\Telinha_Teste_Git_Soma\Telinha_Teste_Git_Soma\obj\Debug\Telinha_Teste_Git_Soma.Form1.resources
+c:\users\gueber\documents\visual studio 2013\Projects\Telinha_Teste_Git_Soma\Telinha_Teste_Git_Soma\obj\Debug\Telinha_Teste_Git_Soma.Properties.Resources.resources
+c:\users\gueber\documents\visual studio 2013\Projects\Telinha_Teste_Git_Soma\Telinha_Teste_Git_Soma\obj\Debug\Telinha_Teste_Git_Soma.csproj.GenerateResource.Cache
+c:\users\gueber\documents\visual studio 2013\Projects\Telinha_Teste_Git_Soma\Telinha_Teste_Git_Soma\obj\Debug\Telinha_Teste_Git_Soma.exe
+c:\users\gueber\documents\visual studio 2013\Projects\Telinha_Teste_Git_Soma\Telinha_Teste_Git_Soma\obj\Debug\Telinha_Teste_Git_Soma.pdb
