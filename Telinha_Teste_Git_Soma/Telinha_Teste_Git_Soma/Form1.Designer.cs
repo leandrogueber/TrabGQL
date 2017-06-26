@@ -47,7 +47,7 @@
             this.lb_nun1.Name = "lb_nun1";
             this.lb_nun1.Size = new System.Drawing.Size(53, 13);
             this.lb_nun1.TabIndex = 0;
-            this.lb_nun1.Text = "Numero 1";
+            this.lb_nun1.Text = "Número 1";
             // 
             // lb_nun2
             // 
@@ -56,11 +56,12 @@
             this.lb_nun2.Name = "lb_nun2";
             this.lb_nun2.Size = new System.Drawing.Size(53, 13);
             this.lb_nun2.TabIndex = 1;
-            this.lb_nun2.Text = "Numero 2";
+            this.lb_nun2.Text = "Número 2";
             // 
             // txt_nun1
             // 
             this.txt_nun1.Location = new System.Drawing.Point(114, 23);
+            this.txt_nun1.MaxLength = 4;
             this.txt_nun1.Name = "txt_nun1";
             this.txt_nun1.Size = new System.Drawing.Size(100, 20);
             this.txt_nun1.TabIndex = 2;
@@ -69,6 +70,7 @@
             // txt_nun2
             // 
             this.txt_nun2.Location = new System.Drawing.Point(114, 83);
+            this.txt_nun2.MaxLength = 4;
             this.txt_nun2.Name = "txt_nun2";
             this.txt_nun2.Size = new System.Drawing.Size(100, 20);
             this.txt_nun2.TabIndex = 3;
@@ -135,7 +137,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(245, 260);
             this.Controls.Add(this.Btn_Limpar);
-            this.Controls.Add(this.Btn_calcular);
             this.Controls.Add(this.lb_igual);
             this.Controls.Add(this.lb_operador);
             this.Controls.Add(this.txt_resultado);
@@ -144,8 +145,10 @@
             this.Controls.Add(this.txt_nun1);
             this.Controls.Add(this.lb_nun2);
             this.Controls.Add(this.lb_nun1);
+            this.Controls.Add(this.Btn_calcular);
             this.Name = "Form1";
-            this.Text = "Calculadora de Soma";
+            this.Text = "Calculadora Soma";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
